@@ -1,6 +1,8 @@
 # Star-Tracker-ver.-11.x.x
 # DIY Advanced Star Tracker (Arduino + L298N Stepper Driver)
 
+[This was a path finder and has officially ended... visit here for the new version: https://github.com/malhar-c/Advanced-Arduino-Star-Tracker-OuttaSyllabus.git]
+
 *by Malhar Chakraborty (OuttaSyllabus)*
 
 *date 07/03/2021 - started (version 0.1 full step)*
